@@ -25,6 +25,7 @@ gem 'capistrano'
 
 gem 'aws'
 gem 'soap4r'
+gem 'actionwebservice'
 
 # Bundle gems for the local environment. Make sure to
 # put test-only gems in this group so their generators
