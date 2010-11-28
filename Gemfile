@@ -23,9 +23,30 @@ gem 'capistrano'
 # gem 'sqlite3-ruby', :require => 'sqlite3'
 # gem 'aws-s3', :require => 'aws/s3'
 
+gem 'rake-remote_task'
+gem 'openssl-extensions'
+
 gem 'aws'
 gem 'soap4r'
 gem 'actionwebservice'
+
+gem 'pipette'
+gem 'marabunta'
+gem 'ovfparse'
+#gem 'ruby-libvirt'
+
+gem 'authlogic'
+gem 'devise'
+gem 'devise_ldap_authenticatable'
+gem 'devise_openid_authenticatable'
+gem 'rails3-generators'
+
+gem 'cucumber'
+gem 'celerity'
+gem 'culerity'
+gem 'pickle'
+gem 'aruba' 
+gem 'bumps'
 
 # Bundle gems for the local environment. Make sure to
 # put test-only gems in this group so their generators
