@@ -35,6 +35,9 @@ gem 'marabunta'
 gem 'ovfparse'
 #gem 'ruby-libvirt'
 
+gem 'memcache-client'
+gem 'memcache'
+
 gem 'authlogic'
 gem 'devise'
 gem 'devise_ldap_authenticatable'
